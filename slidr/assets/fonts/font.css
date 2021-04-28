@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'MYRIADPROBOLD';
+    src: url('MYRIADPROBOLD.eot');
+    src: url('MYRIADPROBOLD.eot') format('embedded-opentype'),
+         url('MYRIADPROBOLD.woff2') format('woff2'),
+         url('MYRIADPROBOLD.woff') format('woff'),
+         url('MYRIADPROBOLD.ttf') format('truetype'),
+         url('MYRIADPROBOLD.svg#MYRIADPROBOLD') format('svg');
+}
